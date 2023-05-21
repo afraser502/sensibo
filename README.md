@@ -12,7 +12,7 @@ The scripts also cater for passing multiple device ID's which allows you to reus
 To use these scripts, you require an API key for the Sensibo API. You also require the UID of your Sensibo device(s).
 https://home.sensibo.com/me/api
 
-API Reference for Sensibo is [here]([https://www.google.com](https://sensibo.github.io/#get-/users/me/pods).
+API Reference for Sensibo is [here](https://sensibo.github.io/#get-/users/me/pods).
 
 ## Set Climate React
 The first paramter to pass is `true` or `false` which will either enable or disable climate react respectiverly. 
